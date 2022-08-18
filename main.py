@@ -5,7 +5,6 @@ import requests
 import time
 from datetime import datetime
 from password import COINMARKETCAP_API_KEY
-from pprint import pprint
 
 
 class Bot:
