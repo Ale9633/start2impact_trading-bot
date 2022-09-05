@@ -1,6 +1,6 @@
 # Start2impact Python exercise: Trading bot
 ### Exercise to practice the CoinMarketCap API.<br /><br />
-Bot checks every 10 minutes if more than 4 currencies have **increased** in price by **more than 3%** in the last hour: in this case, it will open a *buy* order for the currency that recorded the greatest increase.
+Bot checks every 10 minutes if more than 4 currencies have **increased** in price by **more than 3%** in the last hour: in this case, it will open a *buy* order for the currency that recorded the greatest increase.<br />
 If the purchased currency **drops** by **more than 1%** in the last hour, Bot will close the order by *selling* the currency.[^1]
 <br /><br />
 <p align="center">
